@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Atelier Jeux-Vidéo Template v1.5",
-    "path": "Atelier Jeux-Vidéo Template v1.5.yyp",
+    "name": "Interface",
+    "path": "folders/Objects/Interface.yy",
   },
   "resourceVersion": "1.0",
   "name": "oButton",

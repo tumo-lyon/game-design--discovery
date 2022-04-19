@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"Level_one","path":"rooms/Level_one/Level_one.yy",},"order":1,},
     {"id":{"name":"PathZigZag","path":"paths/PathZigZag/PathZigZag.yy",},"order":1,},
+    {"id":{"name":"sSaw","path":"sprites/sSaw/sSaw.yy",},"order":11,},
     {"id":{"name":"sFallingPlatform_falling","path":"sprites/sFallingPlatform_falling/sFallingPlatform_falling.yy",},"order":2,},
     {"id":{"name":"oMovingPlatform","path":"objects/oMovingPlatform/oMovingPlatform.yy",},"order":2,},
     {"id":{"name":"oMovingEnnemy","path":"objects/oMovingEnnemy/oMovingEnnemy.yy",},"order":4,},
@@ -10,7 +11,7 @@
     {"id":{"name":"Level_two","path":"rooms/Level_two/Level_two.yy",},"order":3,},
     {"id":{"name":"sBackgroundSkyAnimated","path":"sprites/sBackgroundSkyAnimated/sBackgroundSkyAnimated.yy",},"order":1,},
     {"id":{"name":"sEnnemy","path":"sprites/sEnnemy/sEnnemy.yy",},"order":8,},
-    {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},"order":12,},
+    {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},"order":0,},
     {"id":{"name":"sGoThroughPlatform","path":"sprites/sGoThroughPlatform/sGoThroughPlatform.yy",},"order":3,},
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},"order":5,},
     {"id":{"name":"sPlatform2","path":"sprites/sPlatform2/sPlatform2.yy",},"order":4,},
@@ -38,6 +39,7 @@
     {"id":{"name":"oCollectible","path":"objects/oCollectible/oCollectible.yy",},"order":0,},
     {"id":{"name":"sPlayer_idle","path":"sprites/sPlayer_idle/sPlayer_idle.yy",},"order":1,},
     {"id":{"name":"sFallingPlatform_active","path":"sprites/sFallingPlatform_active/sFallingPlatform_active.yy",},"order":1,},
+    {"id":{"name":"oSaw","path":"objects/oSaw/oSaw.yy",},"order":12,},
     {"id":{"name":"sMovingPlatform","path":"sprites/sMovingPlatform/sMovingPlatform.yy",},"order":2,},
     {"id":{"name":"Controls","path":"scripts/Controls/Controls.yy",},"order":0,},
     {"id":{"name":"sDamageZone","path":"sprites/sDamageZone/sDamageZone.yy",},"order":1,},
@@ -61,7 +63,9 @@
     {"roomId":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"roomId":{"name":"Level_two","path":"rooms/Level_two/Level_two.yy",},},
     {"roomId":{"name":"Level_three","path":"rooms/Level_three/Level_three.yy",},},
-    {"roomId":{"name":"Example","path":"rooms/Example/Example.yy",},},
+    {"groupName":"Exemples","children":[
+        {"roomId":{"name":"Example","path":"rooms/Example/Example.yy",},},
+      ],},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -76,6 +80,7 @@
     {"folderPath":"folders/Sprites/Player.yy","order":5,"resourceVersion":"1.0","name":"Player","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Backgrounds.yy","order":6,"resourceVersion":"1.0","name":"Backgrounds","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Interface.yy","order":9,"resourceVersion":"1.0","name":"Interface","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Interface.yy","order":11,"resourceVersion":"1.0","name":"Interface","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

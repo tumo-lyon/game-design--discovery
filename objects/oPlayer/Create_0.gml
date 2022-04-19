@@ -31,7 +31,8 @@ function jump(){
 }
 
 function collect(item) {
-	if (item.onCollect) item.onCollect(self);
+	item.onCollect(self);
+	
 	instance_destroy(item.id);
 }
 
