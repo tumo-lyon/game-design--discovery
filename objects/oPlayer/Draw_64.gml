@@ -1,6 +1,8 @@
 var sh = window_get_height();
 var sw = window_get_width();
 
+if (disabled) return;
+
 
 // Health Bar
 var size = 32;

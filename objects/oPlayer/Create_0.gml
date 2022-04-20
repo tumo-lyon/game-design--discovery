@@ -1,6 +1,7 @@
 hp = max_health;
 
 winned = false;
+win_time = 0;
 
 inventory = {
 	coins: 0
@@ -47,7 +48,9 @@ function takeDamage(entity) {
 }
 
 function win() {
+	if (winned) return;
 	winned = true;
+	win_time = current_time;
 }
 
 death_time = 0;

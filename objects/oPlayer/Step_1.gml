@@ -1,4 +1,4 @@
-var next_vel = (isAlive() && !winned) ? GetControlVelocity() : {x: 0, y: 0};
+var next_vel = (isAlive() && !winned && !disabled) ? GetControlVelocity() : {x: 0, y: 0};
 
 // Turn around sprite
 if (next_vel.x != 0) {
@@ -70,3 +70,7 @@ if (place_meeting(x, y, oFlag)) win();
 
 // Check to dispawn
 checkDeath();
+
+if (winned && win_time + 4000 < current_time) {
+	if (room == Level_one || room == Level_two) room_goto_next();
+}
