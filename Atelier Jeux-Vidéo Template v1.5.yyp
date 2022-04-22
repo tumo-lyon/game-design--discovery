@@ -46,7 +46,7 @@
     {"id":{"name":"sMovingPlatform","path":"sprites/sMovingPlatform/sMovingPlatform.yy",},"order":2,},
     {"id":{"name":"Controls","path":"scripts/Controls/Controls.yy",},"order":0,},
     {"id":{"name":"sHerbe","path":"sprites/sHerbe/sHerbe.yy",},"order":0,},
-    {"id":{"name":"sDamageZone","path":"sprites/sDamageZone/sDamageZone.yy",},"order":3,},
+    {"id":{"name":"sNone","path":"sprites/sNone/sNone.yy",},"order":1,},
     {"id":{"name":"sPlayer_none","path":"sprites/sPlayer_none/sPlayer_none.yy",},"order":0,},
     {"id":{"name":"oFlag","path":"objects/oFlag/oFlag.yy",},"order":9,},
     {"id":{"name":"Example","path":"rooms/Example/Example.yy",},"order":0,},

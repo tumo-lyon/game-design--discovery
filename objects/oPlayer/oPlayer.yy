@@ -33,7 +33,7 @@
     {"varType":0,"value":"5","rangeEnabled":true,"rangeMin":2.0,"rangeMax":8.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"walk_speed","tags":[],"resourceType":"GMObjectProperty",},
     {"varType":0,"value":"15","rangeEnabled":true,"rangeMin":1.0,"rangeMax":40.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"jump_height","tags":[],"resourceType":"GMObjectProperty",},
     {"varType":0,"value":"0.3","rangeEnabled":true,"rangeMin":0.1,"rangeMax":1.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"walk_acceleration","tags":[],"resourceType":"GMObjectProperty",},
-    {"varType":0,"value":"4","rangeEnabled":true,"rangeMin":0.0,"rangeMax":8.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"invicibility_time","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":0,"value":"2","rangeEnabled":true,"rangeMin":0.0,"rangeMax":8.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"invicibility_time","tags":[],"resourceType":"GMObjectProperty",},
     {"varType":1,"value":"3","rangeEnabled":true,"rangeMin":1.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"max_health","tags":[],"resourceType":"GMObjectProperty",},
     {"varType":1,"value":"2","rangeEnabled":true,"rangeMin":1.0,"rangeMax":3.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"max_jumps","tags":[],"resourceType":"GMObjectProperty",},
     {"varType":3,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"disabled","tags":[],"resourceType":"GMObjectProperty",},

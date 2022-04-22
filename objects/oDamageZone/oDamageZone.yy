@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sDamageZone",
-    "path": "sprites/sDamageZone/sDamageZone.yy",
+    "name": "sNone",
+    "path": "sprites/sNone/sNone.yy",
   },
   "solid": false,
   "visible": true,
