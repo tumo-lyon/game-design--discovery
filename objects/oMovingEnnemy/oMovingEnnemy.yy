@@ -36,8 +36,8 @@
     {"propertyId":{"name":"damage","path":"objects/oDamageZone/oDamageZone.yy",},"objectId":{"name":"oDamageZone","path":"objects/oDamageZone/oDamageZone.yy",},"value":"1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Hostiles",
+    "path": "folders/Objects/Hostiles.yy",
   },
   "resourceVersion": "1.0",
   "name": "oMovingEnnemy",

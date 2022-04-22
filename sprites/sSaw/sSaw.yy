@@ -93,8 +93,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Hostiles",
+    "path": "folders/Sprites/Hostiles.yy",
   },
   "resourceVersion": "1.0",
   "name": "sSaw",

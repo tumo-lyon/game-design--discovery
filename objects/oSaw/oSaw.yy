@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Hostiles",
+    "path": "folders/Objects/Hostiles.yy",
   },
   "resourceVersion": "1.0",
   "name": "oSaw",

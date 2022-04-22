@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sFallingPlatform_inactive",
-    "path": "sprites/sFallingPlatform_inactive/sFallingPlatform_inactive.yy",
+    "name": "sFallingPlatform",
+    "path": "sprites/sFallingPlatform/sFallingPlatform.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,6 +26,7 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":2,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
     {"varType":0,"value":"2","rangeEnabled":true,"rangeMin":1.0,"rangeMax":5.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"fall_speed","tags":[],"resourceType":"GMObjectProperty",},

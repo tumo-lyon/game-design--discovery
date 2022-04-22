@@ -113,8 +113,8 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Collectibles",
+    "path": "folders/Sprites/Collectibles.yy",
   },
   "resourceVersion": "1.0",
   "name": "sCoin",
