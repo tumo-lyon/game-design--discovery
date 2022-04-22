@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "sNone",
+    "path": "sprites/sNone/sNone.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -23,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Collectibles",
-    "path": "folders/Objects/Collectibles.yy",
+    "name": "_Parents",
+    "path": "folders/Objects/_Parents.yy",
   },
   "resourceVersion": "1.0",
   "name": "oCollectible",

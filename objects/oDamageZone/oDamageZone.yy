@@ -26,8 +26,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "_Parents",
+    "path": "folders/Objects/_Parents.yy",
   },
   "resourceVersion": "1.0",
   "name": "oDamageZone",
